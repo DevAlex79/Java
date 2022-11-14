@@ -307,7 +307,7 @@ class Benevoles extends Salaries{
 
 
 // Main -------------------------------------------------
-public class POO_JAVA_Ecole {
+public class POOJavaEcole {
     public static void main(String[] args){
         // Initialise école
         Ecole jaures = new Ecole("Jaures","Genre pas loin de la gare","mél: ecole.scolaire@trou.fr");
