@@ -1,6 +1,8 @@
 import java.util.*;
 import java.util.ArrayList.*;
 
+import Animal.Bovin;
+
 
 class LaFerme {
 
